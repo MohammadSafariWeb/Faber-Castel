@@ -254,7 +254,7 @@ section:first-of-type {
 .footerpaddingtop {
     padding-top: 100px;
     background-color: #014532;
-    padding-bottom: 1px;
+    padding-bottom: 10px;
 }
 
 .decorationhover {
@@ -276,43 +276,6 @@ section:first-of-type {
 .hightline {
     height: 2px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media screen and (min-width: 992px) {
     .backcolordiv1 {
@@ -433,4 +396,5 @@ section:first-of-type {
         height: 350px !important;
         margin-left: 30px;
     }
+
 }
