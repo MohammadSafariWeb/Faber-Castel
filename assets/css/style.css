@@ -1,0 +1,436 @@
+.backcolordiv1 {
+    font-size: 12px;
+    background-color: #014532;
+}
+
+.widthlogo1 {
+    width: 100px;
+    filter: invert(21%) sepia(12%) saturate(4579%) hue-rotate(124deg) brightness(94%) contrast(104%);
+    position: relative;
+    top: 10px;
+}
+
+.widthlogo2 {
+    width: 250px;
+    background-color: #014532 !important;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.filterinvert {
+    filter: invert(1);
+}
+
+.divcentering {
+    position: absolute;
+    left: 40%;
+}
+
+.cursorpointer {
+    cursor: pointer;
+}
+
+.w-80 {
+    width: 90% !important;
+}
+
+.hoverunderline:hover {
+    text-decoration: underline !important;
+}
+
+.fontwieght {
+    font-weight: 600 !important;
+}
+
+.customerfontsize {
+    font-size: 13px;
+}
+
+.boxsearch {
+    border-radius: 25px 0 0 25px;
+    height: 55px;
+}
+
+.iconsearch {
+    border-radius: 0 25px 25px 0;
+    height: 55px !important;
+}
+
+.widthsearchbox {
+    width: 240px !important;
+}
+
+.marginauto {
+    margin: auto;
+}
+
+section:first-of-type {
+    background-image: url(../img/stage-image-schreibtisch-Afrika-Schmetterling\ \(2\).webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh !important;
+    position: relative !important;
+    width: 100%;
+    /* z-index: -10; */
+}
+
+.radiousbutton {
+    border-radius: 40px;
+    padding: 10px 15px;
+    width: 150px !important;
+}
+
+.margintopsection1 {
+    margin-top: 240px !important;
+}
+
+.fadebg {
+    background: #22202b;
+    background: linear-gradient(183deg, rgba(34, 32, 43, 0.06) 0%, rgba(34, 32, 43, 0.19) 17%, rgba(34, 32, 43, 0.28) 38%, rgba(34, 32, 43, 0.42) 55%, rgba(34, 32, 43, 0.51) 71%, rgba(34, 32, 43, 0.59) 90%, rgba(34, 32, 43, 0.65) 98%);
+    position: absolute;
+    bottom: 0 !important;
+    z-index: 10;
+    height: 30%;
+    width: 100%;
+}
+
+.z10 {
+    position: relative;
+    z-index: 100;
+}
+
+.margintop- {
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.widthbutton {
+    width: 240px;
+    border-radius: 40px;
+    padding: 10px;
+    background-color: #014532;
+}
+
+.specialcolor {
+    color: #014532;
+}
+
+.w98p {
+    width: 98%;
+    overflow: hidden;
+}
+
+.hover1 {
+    transition: .4s;
+    width: 100%;
+    height: 700px;
+}
+
+.hover1:hover {
+    filter: brightness(50%);
+    transform: scale(1.1);
+}
+
+.margintop-2 {
+    margin-top: -160px;
+    margin-left: 20px;
+    position: relative;
+    z-index: 100;
+    display: block;
+}
+
+.faddiv {
+    height: 200px;
+    background: #22202b;
+    background: linear-gradient(183deg, rgba(34, 32, 43, 0.30) 0%, rgba(34, 32, 43, 0.50) 17%, rgba(34, 32, 43, 0.60) 38%, rgba(34, 32, 43, 0.80) 55%, rgba(34, 32, 43, .95) 71%, rgba(34, 32, 43, 1) 90%, rgba(34, 32, 43, 1) 98%);
+    position: relative;
+    z-index: 30;
+    margin-top: -200px !important;
+    width: 98%;
+}
+
+.specialcolor {
+    background-color: #014532;
+    border-radius: 40px;
+    width: 120px;
+    padding: 15px;
+}
+
+.margintopnagetive {
+    margin-bottom: 20px
+}
+
+.specialcolor2 {
+    color: #014532;
+}
+
+.margintop2 {
+    margin-top: 80px;
+}
+
+
+.faddiv1 {
+    height: 80px;
+    background: #22202b;
+    background: linear-gradient(183deg, rgba(34, 32, 43, 0.30) 0%, rgba(34, 32, 43, 0.50) 17%, rgba(34, 32, 43, 0.60) 38%, rgba(34, 32, 43, 0.80) 55%, rgba(34, 32, 43, .95) 71%, rgba(34, 32, 43, 1) 90%, rgba(34, 32, 43, 1) 98%);
+    position: relative;
+    z-index: 30;
+    margin-top: -80px !important;
+    width: 98%;
+}
+
+
+.margintop-3 {
+    margin-top: -70px;
+    margin-left: 20px;
+    position: relative;
+    z-index: 100;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.highfad {
+    height: 500px;
+}
+
+.highfad2 {
+    transform: translateY(500px);
+    height: 500px;
+    width: 100%;
+    background: #22202b;
+    background: linear-gradient(183deg, rgba(34, 32, 43, 0.3) 0%, rgba(34, 32, 43, 0.3) 17%, rgba(34, 32, 43, 0.3) 38%, rgba(34, 32, 43, 0.3) 55%, rgba(34, 32, 43, 0.3) 71%, rgba(34, 32, 43, 0.3) 90%, rgba(34, 32, 43, 0.3) 98%);
+}
+
+.margintopextra {
+    margin-top: 100px;
+}
+
+.hoverchange {
+    border-radius: 40px;
+}
+
+.hoverchange:hover {
+    background-color: #014532 !important;
+    color: white !important;
+}
+
+.margintop4 {
+    margin-top: 150px;
+}
+
+.margintop3 {
+    margin-top: 15px;
+}
+
+.margintopnagetiv3 {
+    margin-top: -10px !important;
+    margin-bottom: 40px;
+}
+
+.margintop5 {
+    margin-top: 50px;
+}
+
+.margintop6 {
+    margin-top: 250px;
+}
+
+.buttonwidth {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+}
+
+.buttonwidth:hover {
+    background-color: #014532 !important;
+}
+
+.w90px {
+    width: 90%;
+}
+
+.footerpaddingtop {
+    padding-top: 100px;
+    background-color: #014532;
+    padding-bottom: 1px;
+}
+
+.decorationhover {
+    background-color: #014532;
+}
+
+.decorationhover:hover {
+    text-decoration: underline;
+}
+
+.backgroungcolorfooter {
+    background-color: #014532;
+}
+
+.fontsize12px {
+    font-size: 13px;
+}
+
+.hightline {
+    height: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) {
+    .backcolordiv1 {
+        background-color: #f6f4f2 !important;
+        font-size: 14px;
+    }
+
+    .text {
+        color: black !important;
+    }
+
+    .section2img {
+        height: 80%;
+        width: 40% !important;
+        margin-top: 80px;
+        margin-left: 150px;
+    }
+
+    .sectiondiv {
+        margin-top: 80px;
+        margin-right: 150px;
+        font-size: 17px;
+    }
+
+    .wlg75 {
+        width: 85% !important;
+        margin-left: 90px;
+    }
+
+    .wlg752 {
+        width: 65% !important;
+        margin-left: 250px;
+    }
+
+    .wlgdiv {
+        width: 40% !important;
+    }
+
+    .wlg80 {
+        width: 80% !important;
+        margin-left: 180px !important;
+        margin-top: 170px;
+    }
+
+    section:nth-of-type(3) {
+        >div {
+            &:nth-of-type(1):hover {
+                i {
+                    display: block !important;
+                }
+            }
+
+            &:nth-of-type(2):hover {
+                i {
+                    display: block !important;
+                }
+            }
+        }
+    }
+
+    section:nth-of-type(4) {
+        >div {
+            &:nth-of-type(1):hover {
+                i {
+                    display: block !important;
+                }
+            }
+
+            &:nth-of-type(2):hover {
+                i {
+                    display: block !important;
+                }
+            }
+        }
+    }
+
+    section:nth-of-type(5) {
+        >div {
+            &:nth-of-type(1):hover {
+                i {
+                    display: block !important;
+                }
+            }
+
+            &:nth-of-type(2):hover {
+                i {
+                    display: block !important;
+                }
+            }
+
+            &:nth-of-type(3):hover {
+                i {
+                    display: block !important;
+                }
+            }
+        }
+    }
+
+    .marginleftspecial {
+        margin-left: 130px;
+        margin-bottom: 200px;
+    }
+
+    .margintopextra {
+        margin-top: 100px;
+    }
+
+    .w-85 {
+        width: 85% !important;
+    }
+
+    .wlf25 {
+        width: 40% !important;
+        margin-left: 100px;
+    }
+
+    .hlg30 {
+        height: 350px !important;
+        margin-left: 30px;
+    }
+}
