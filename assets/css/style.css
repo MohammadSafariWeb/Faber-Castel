@@ -254,7 +254,7 @@ section:first-of-type {
 .footerpaddingtop {
     padding-top: 100px;
     background-color: #014532;
-    padding-bottom: 10px;
+    padding-bottom: 40px;
 }
 
 .decorationhover {
@@ -398,3 +398,4 @@ section:first-of-type {
     }
 
 }
+
