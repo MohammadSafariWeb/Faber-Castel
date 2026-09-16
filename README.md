@@ -1,9 +1,10 @@
-<a href="https://mohammadsafariweb.github.io/Faber-Castel/">Online Demo</a>
-<hr>
 Developed by: Mohammad Safari
 <br>
 Date of Mudified: January7, 2026
 <hr>
+<a href="https://mohammadsafariweb.github.io/Faber-Castel/">Online Demo</a>
+<hr>
+connect us:
 safarimohammad13871387@gmail.com
 <br>
 mohammadsafari.1387@iCloud.com
